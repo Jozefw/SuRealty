@@ -1,1 +1,1 @@
-This is a Realty Sote done in CSS grid system
+This is a Realty Site done in CSS grid system
